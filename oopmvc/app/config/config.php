@@ -1,6 +1,6 @@
 <?php 
 
-define('BASEURL', 'http://localhost/latihan/sandika/oopmvc/public');
+define('BASEURL', 'http://localhost/OOP-MVC/oopmvc/public');
 
 // DB
 define('DB_HOST', 'localhost');
